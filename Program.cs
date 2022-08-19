@@ -1,4 +1,6 @@
-﻿// Console.Write("Input A: ");
+// Задача №25
+
+// Console.Write("Input A: ");
 // int A = int.Parse(Console.ReadLine());
 // Console.Write("Input B: ");
 // int B = int.Parse(Console.ReadLine());
